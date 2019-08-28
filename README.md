@@ -1,4 +1,4 @@
-# Just Simple Quiz <img src="app/src/main/res/drawable/logo_my.png" align="left" height="200" width="200" >
+# Just Simple Quiz <img src="app/src/main/res/drawable/logo_my.png" height="200" width="200" >
 <br />
 
 ## Sadržaj
@@ -39,7 +39,7 @@ API s nasumičnim pitanjima -> [Pitanja](https://opentdb.com/api_config.php) <br
 ## Video zapis aplikacije u radu
 Za pokretanje videa **_klikni na LOGO_** ispod
 
-[![Watch the video](<img src="app/src/main/res/drawable/logo_my.png" align="left" height="200" width="200" >)](https://drive.google.com/open?id=1TvDjOGtzXKsIMFsydAvOxHULiJBb0k0x)<br />
+[![Watch the video](app/src/main/res/drawable/logo_my.png)](https://drive.google.com/open?id=1TvDjOGtzXKsIMFsydAvOxHULiJBb0k0x)<br />
 <br />
 <br />
 
