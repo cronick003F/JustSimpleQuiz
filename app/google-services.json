@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981182807207",
+    "firebase_url": "https://justsimplequiz.firebaseio.com",
+    "project_id": "justsimplequiz",
+    "storage_bucket": "justsimplequiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981182807207:android:91fb00c906fc3605",
+        "android_client_info": {
+          "package_name": "hr.branimir.barun.justquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981182807207-9up4l89tlu5raf9vd892959j1usi2pr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.branimir.barun.justquiz",
+            "certificate_hash": "11c684436fcd1f4775b16c60ecd2e48a041d5bd2"
+          }
+        },
+        {
+          "client_id": "981182807207-01und3faicaq2268gbjrljtpp0djsolm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdoNuB_X5k7JLiJuX4swi70oXxyT5Kzek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981182807207-01und3faicaq2268gbjrljtpp0djsolm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
