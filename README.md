@@ -1,4 +1,4 @@
-# Just Simple Quiz ![](app/src/main/res/drawable/logo_my.png =200x200) 
+# Just Simple Quiz ![20%](app/src/main/res/drawable/logo_my.png) 
 <br />
 
 ## Sadržaj
