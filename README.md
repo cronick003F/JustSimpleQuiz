@@ -1,4 +1,6 @@
-# Just Simple Quiz <img src="app/src/main/res/drawable/logo_my.png" height="200" width="200" >
+# Just Simple Quiz 
+<br />
+<img src="app/src/main/res/drawable/logo_my.png" height="200" width="250" >
 <br />
 
 ## Sadržaj
