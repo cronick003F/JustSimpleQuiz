@@ -133,7 +133,7 @@ public class SignupActivity extends AppCompatActivity {
 
                                 finish();
                             } else {
-
+                                progressDialog.dismiss();
                                 String errorMessage = task.getException().getMessage();
                                 Toast.makeText(SignupActivity.this,""+errorMessage, Toast.LENGTH_LONG).show();
 
@@ -144,6 +144,7 @@ public class SignupActivity extends AppCompatActivity {
 
 
                 } else {
+                    progressDialog.dismiss();
                     Toast.makeText(SignupActivity.this,"Error registering user.", Toast.LENGTH_LONG).show();
                 }
 

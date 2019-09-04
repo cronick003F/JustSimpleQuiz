@@ -192,7 +192,7 @@ public class QuizActivity extends AppCompatActivity {
                 .build();
 
         ApiQuestionService apiQuestionService = retrofit.create(ApiQuestionService.class);
-        Call<ApiQuestion> call = apiQuestionService.getQuizQuestions(1, "url3986");
+        Call<ApiQuestion> call = apiQuestionService.getQuizQuestions(1,"multiple","url3986");
 
         call.enqueue(new Callback<ApiQuestion>() {
 

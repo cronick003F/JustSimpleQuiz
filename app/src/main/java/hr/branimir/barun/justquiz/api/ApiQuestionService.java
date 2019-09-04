@@ -12,5 +12,6 @@ public interface ApiQuestionService {
     @GET("api.php")
     Call<ApiQuestion> getQuizQuestions(
             @Query("amount") Integer amount,
+            @Query("type") String type,
             @Query("encode") String encode);
 }
