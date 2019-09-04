@@ -41,10 +41,10 @@ API s nasumičnim pitanjima -> [Pitanja](https://opentdb.com/api_config.php) <br
 ## Video zapis aplikacije u radu
 Za pokretanje videa **_klikni na sliku_** ispod
 
-[![Watch the video](/app/src/main/res/jsq3.PNG)](https://drive.google.com/open?id=1TvDjOGtzXKsIMFsydAvOxHULiJBb0k0x)<br />
+[![Watch the video](/app/src/main/res/jsq3.PNG)](https://drive.google.com/open?id=1E-5fSjFqvdaw5fzxMKW94MmB2aYJbekd)<br />
 <br />
 <br />
 
 ## PowerPoint prezentacija aplikacije 
 
- [PowerPoint prezentacija](https://drive.google.com/open?id=18ifaWEpDHFCo1iN3pVhkMz1Ux334qaIv)
+ [PowerPoint prezentacija](https://drive.google.com/open?id=1tZimnGDxrZe9vbdlX72Q-6_F6faEEc9o)
