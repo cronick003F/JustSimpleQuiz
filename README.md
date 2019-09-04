@@ -39,9 +39,9 @@ API s nasumičnim pitanjima -> [Pitanja](https://opentdb.com/api_config.php) <br
 <br />
 
 ## Video zapis aplikacije u radu
-Za pokretanje videa **_klikni na LOGO_** ispod
+Za pokretanje videa **_klikni na sliku_** ispod
 
-[![Watch the video](app/src/main/res/drawable/logo_my.png)](https://drive.google.com/open?id=1TvDjOGtzXKsIMFsydAvOxHULiJBb0k0x)<br />
+[![Watch the video](/app/src/main/res/jsq3.PNG)](https://drive.google.com/open?id=1TvDjOGtzXKsIMFsydAvOxHULiJBb0k0x)<br />
 <br />
 <br />
 
